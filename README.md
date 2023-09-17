@@ -1,11 +1,11 @@
 # portfolio_2023
 Portfolio Project
 
-Name: Ali Khaled
+<br>Name: Ali Khaled
 CWID: (Confidential)
 Email: alikhaled@csu.fullerton.edu
-Language:
-Reference:
+<br>Language:
+<br>Reference:
 
 Assignment: Design a website and implement the features mentioned in the Portfolio. You can use any preferred language like HTML, CSS, React, Angular. 
 You can refer to the templates but you should mention the reference in the readme file. 
