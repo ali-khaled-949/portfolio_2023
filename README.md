@@ -2,11 +2,11 @@
 Portfolio Project
 
 <br>Name: Ali Khaled
-CWID: (Confidential)
-Email: alikhaled@csu.fullerton.edu
+<br>CWID: (Confidential)
+<br>Email: alikhaled@csu.fullerton.edu
 <br>Language:
 <br>Reference:
-
+<br><br>
 Assignment: Design a website and implement the features mentioned in the Portfolio. You can use any preferred language like HTML, CSS, React, Angular. 
 You can refer to the templates but you should mention the reference in the readme file. 
 You would be submitting the Github repository link, which will have your portfolio and server code. 
