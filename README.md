@@ -9,7 +9,7 @@ Portfolio Project
 <br>Reference: https://mycsufproject.com/8796rutydfgh-cpsc362/index.php
 <br> 
 <br>
-
+Resource: W3, jsfiddle.net, Font Awesome, jQuery
 <br>
 Assignment: Design a website and implement the features mentioned in the Portfolio. You can use any preferred language like HTML, CSS, React, Angular. 
 You can refer to the templates but you should mention the reference in the readme file. 
