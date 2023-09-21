@@ -5,9 +5,9 @@ Portfolio Project
 <br>CWID: 885813089
 
 <br>Email: alikhaled@csu.fullerton.edu
-<br>Language: HTML, CSS, Jquery, Bootstrap
+<br>Language: HTML, CSS, Jquery, Bootstrap, PHP
 <br>Reference: 
-<br> Portfolio Link: https://mycsufproject.com/8796rutydfgh-cpsc362/index.html
+<br> Portfolio Link: https://mycsufproject.com/8796rutydfgh-cpsc362/index.php
 <br>
 https://pixabay.com/
 <br>
