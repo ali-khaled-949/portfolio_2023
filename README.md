@@ -7,7 +7,7 @@ Portfolio Project
 <br>Email: alikhaled@csu.fullerton.edu
 <br>Language: HTML, CSS, Jquery, Bootstrap, PHP
 <br>Reference: 
-<br> Portfolio Link: https://mycsufproject.com/8796rutydfgh-cpsc362/index.php
+<br> 
 <br>
 https://pixabay.com/
 <br>
