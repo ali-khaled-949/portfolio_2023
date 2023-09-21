@@ -6,10 +6,10 @@ Portfolio Project
 
 <br>Email: alikhaled@csu.fullerton.edu
 <br>Language: HTML, CSS, Jquery, Bootstrap, PHP
-<br>Reference: 
+<br>Reference: https://mycsufproject.com/8796rutydfgh-cpsc362/index.php
 <br> 
 <br>
-https://pixabay.com/
+
 <br>
 Assignment: Design a website and implement the features mentioned in the Portfolio. You can use any preferred language like HTML, CSS, React, Angular. 
 You can refer to the templates but you should mention the reference in the readme file. 
