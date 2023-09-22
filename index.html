@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,8 +62,9 @@
     <!-- Hero Section -->
     <header class="hero bg-primary text-white text-center fade-out">
         <div class="container">
+            <h1>&nbsp;</h1>
             <h1>Welcome</h1>
-            <p>I'm a passionate Software Developer committed to pushing the boundaries of innovation in the realm of digital solutions. With dedication to harnessing technology's transformative power, I find profound satisfaction in creating digital solutions that not only meet but exceed expectations.</p>
+<p>I'm a passionate Software Developer committed to pushing the boundaries of innovation in the realm of digital solutions. With dedication to harnessing technology's transformative power, I find profound satisfaction in creating digital solutions that not only meet but exceed expectations.</p>
         </div>
     </header>
 <br id="about">
