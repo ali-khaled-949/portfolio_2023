@@ -1,0 +1,265 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+.download-button a {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #007ACC; /* Blue background color */
+    color: #fff; /* White font color */
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.download-button a:hover {
+    background-color: #005A91; /* Darker blue on hover */
+}
+
+/* Apply a background color to the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header navigation menu */
+/* Style the header navigation menu */
+header {
+    background-color: #007ACC;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+/* Style the about, portfolio, and contact sections */
+.about,
+.portfolio,
+.contact {
+    padding: 80px 0;
+}
+
+.about h2,
+.portfolio h2,
+.contact h2 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about p,
+.portfolio p,
+.contact p {
+    font-size: 18px;
+    color: #666;
+}
+
+/* Style portfolio items */
+.portfolio-item {
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-item img {
+    max-width: 100%;
+}
+
+.portfolio-item h3 {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+
+
+nav ul li a:hover {
+    color: #005A91; /* Darker blue on hover */
+}
+
+
+/* Style the hero section */
+.hero {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Style the about section */
+.about {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.about h2 {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Style the portfolio section */
+.portfolio {
+    background-color: #f0f0f0;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.portfolio h2 {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.portfolio-item {
+    margin: 20px;
+}
+
+.portfolio-item img {
+    max-width: 100%;
+}
+
+.portfolio-item h3 {
+    font-size: 18px;
+    color: #333;
+    margin-top: 10px;
+}
+
+/* Style the contact section */
+.contact {
+    background-color: #333;
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.contact p {
+    font-size: 18px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Media queries for responsiveness (you can add more as needed) */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 28px;
+    }
+    
+    .hero p {
+        font-size: 16px;
+    }
+}
+
+.fade {
+  margin: 50px;
+  padding: 50px;
+  background-color: lightgreen;
+  opacity: 1;
+}
+
+/* Style for the Testimonials Section */
+.section {
+    text-align: center;
+    padding: 10px;
+}
+
+.section-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.section-content {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+/* Style for Testimonial Boxes */
+.testimonial {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.testimonial-source {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.testimonial-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.testimonial-source-name {
+    font-weight: bold;
+}
+
+.testimonial-source-platform {
+    color: #777;
+    margin-left: 10px;
+}
+
+.testimonial-text {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
